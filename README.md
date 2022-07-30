@@ -1,4 +1,4 @@
-# Gruppenprojekt g3-20
+# KomCrea Gruppenprojekt g3-20
 
 ![Title](frontend/src/assets/images/kctitlebold.png)
 
